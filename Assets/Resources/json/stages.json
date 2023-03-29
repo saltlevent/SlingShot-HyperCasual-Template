@@ -1,0 +1,40 @@
+{
+  "name": "lev",
+  "stages": [
+    {
+      "name": "0",
+      "stageNo": 0,
+      "manCount": 4,
+      "objectCount": 37,
+      "prefabFileName": "stage0"
+    },
+    {
+      "name": "1",
+      "stageNo": 1,
+      "manCount": 2,
+      "objectCount": 10,
+      "prefabFileName": "stage1"
+    },
+    {
+      "name": "2",
+      "stageNo": 2,
+      "manCount": 6,
+      "objectCount": 40,
+      "prefabFileName": "stage2"
+    },
+    {
+      "name": "3",
+      "stageNo": 3,
+      "manCount": 3,
+      "objectCount": 12,
+      "prefabFileName": "stage3"
+    },
+    {
+      "name": "4",
+      "stageNo": 4,
+      "manCount": 3,
+      "objectCount": 20,
+      "prefabFileName": "stage4"
+    }
+  ]
+}
